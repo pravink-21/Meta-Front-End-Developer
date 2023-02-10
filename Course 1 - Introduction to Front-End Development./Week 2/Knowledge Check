@@ -1,0 +1,118 @@
+              # Knowledge Check 1: Getting started with HTML
+
+1. An HTML document begins with ______________.
+   - The html tag
+   - The DOCTYPE declaration
+   - The head tag
+   - The body tag
+   ```
+   Answer: The DOCTYPE declaration
+   Explanation: An HTML document always begins with a DOCTYPE declaration followed by the html tag.
+   ```
+
+2. To display a link to another HTML document, the ______________ tag is used.
+   - link
+   - html
+   - anchor (a)
+   - img
+   ```
+   Answer: anchor (a)
+   Explanation: The anchor tag is used to link to another HTML document.
+   ```
+
+3. To add an image to a webpage, the ______________ tag is used.
+   - img
+   - image
+   - anchor (a)
+   - link
+   ```
+   Answer: img
+   Explanation: The img tag is used to include images in an HTML document.
+   ```
+
+4. To represent the HTML document in JavaScript, the browser builds  _____________.
+   - an HTML Element Model
+   - an HTML Script
+   - Document Object Model
+   ```
+   Answer: Document Object Model
+   Explanation: A Document Object Model (DOM) is built to represent the HTML document in JavaScript.
+   ```
+
+5. Which of the following answer choices improves web accessibility for people with disabilities? Select all that apply.
+   - Correct HTML structure
+   - Accessible Rich Internet Application (ARIA) techniques
+   - Appropriate use of HTML elements
+   ```
+   Answer: Correct HTML structure
+           Accessible Rich Internet Application (ARIA) techniques
+           Appropriate use of HTML elements
+   Explanation: Ensuring correct HTML structure will help assistive technologies to describe, navigate and interact with the content.
+                ARIA techniques improve accessibility for complex web applications.
+                Using HTML elements appropriately such as using paragraph tags for text and button tags for buttons will help assistive technologies to describe, navigate and interact with the content.
+   ```
+   
+   
+        # Knowledge check 2: CSS basics
+
+1. To reference a CSS file in an HTML document, you use the ______________ tag.
+   - head
+   - script
+   - style
+   - link
+   ```
+   Answer: link
+   Explanation: The link tag is used to reference a CSS file.
+   ```
+
+2. In the following CSS rule, the `h1` part of the rule is called the ______________.
+   ```
+   h1 {
+    color: green;
+   }
+   ```
+   - Box model
+   - Selector
+   - Inheritance
+   - HTML
+   ```
+   Answer: Selector
+   Explanation: In this CSS rule h1 is called the selector. 
+   ```
+
+3. What is the padding box width of the following CSS rule?
+   ```
+   div {
+    width: 10px;
+    padding: 20px;
+    margin: 40px;
+   }
+   ```
+   - 10 pixels
+   - 30 pixels
+   - 50 pixels
+   - 70 pixels
+   ```
+   Answer: 50 pixels
+   Explanation: The padding box width is the sum of the content width and the padding width. In this rule, it is 10 (content width) + 20 (padding left) + 20 (padding right) = 50.
+   ```
+
+4. Which CSS property and value change the HTML element to a block-level element?
+   - align-content
+   - content
+   - list-style
+   - display: block
+   ```
+   Answer: display: block
+   Explanation: The display property and block value are used to change the HTML element to a block-level element.
+   ```
+
+5. Which CSS property and value change the text to center alignment?
+   - text-align: center
+   - align-self   
+   - vertical-align   
+   - align-items   
+   ```
+   Answer: text-align: center
+   Explanation: The text-align property and center value change the text to center alignment.
+   ```
