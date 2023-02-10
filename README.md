@@ -1,6 +1,6 @@
 # Meta Front-End Developer Professional Certificate
 
-<img src="" >
+<img src="https://static.dezeen.com/uploads/2021/11/meta-facebook-rebranding-name-news_dezeen_2364_col_hero2.jpg" width="390px" height="210px">
 
 - This repo contains all of my assignments, demos, and cheat sheets from the 9 courses in the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
