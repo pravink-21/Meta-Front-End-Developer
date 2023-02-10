@@ -1,0 +1,13 @@
+#Exercise: Examine a web page
+
+Solution:- 
+Inspect the line in the HTML for the logo in the developer tools panel. The line begins with <img.
+Note: In the line, there is an ID in the following format id="???". Note the value that the ID is equal to.
+
+
+
+#Exercise: Edit a website using a browser developer tools
+
+Solution:-
+Double-click the Our Menu text in the Elements tab of the developer tools panel.
+Change the text to Little Lemon Menu.
